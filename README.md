@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&duration=3000&pause=1000&color=2EF74D&center=true&vCenter=true&random=false&width=800&lines=I+am+Hammad+Hasan;An+Android+Engineer;Nice+to+Meet+you)](https://git.io/typing-svg)<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=30&duration=3000&pause=1000&color=2EF74D&center=true&vCenter=true&random=false&width=800&lines=I+am+Hammad+Hasan;An+Android+Engineer;Nice+to+Meet+you)](https://git.io/typing-svg)
+<!--
 **Hamad854/Hamad854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
